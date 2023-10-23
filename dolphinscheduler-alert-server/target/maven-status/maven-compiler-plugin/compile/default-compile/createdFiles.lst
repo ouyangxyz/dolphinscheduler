@@ -1,0 +1,8 @@
+org\apache\dolphinscheduler\alert\AlertServer.class
+org\apache\dolphinscheduler\alert\AlertRequestProcessor.class
+META-INF\spring-configuration-metadata.json
+org\apache\dolphinscheduler\alert\AlertServerMetrics.class
+org\apache\dolphinscheduler\alert\AlertSenderService.class
+org\apache\dolphinscheduler\alert\AlertSenderService$1.class
+org\apache\dolphinscheduler\alert\AlertConfig.class
+org\apache\dolphinscheduler\alert\AlertPluginManager.class
